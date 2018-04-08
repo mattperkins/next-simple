@@ -1,4 +1,3 @@
-// import Head from './Head'
 import Link from 'next/link'
 
 const navLink = { width: 80, backgroundColor: 'rgba(244,68,68,.9)', borderRadius: 2, padding: '6px 8px', color: '#f7f7f7', fontSize: '1.2rem', fontWeight: 600,  }

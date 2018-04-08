@@ -1,4 +1,3 @@
-
 export default () => <footer>
        
     <p>&copy; DORMshed</p>
