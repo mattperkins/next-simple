@@ -4,7 +4,7 @@ const navLink = { width: 80, backgroundColor: 'rgba(244,68,68,.9)', borderRadius
 
 const links = [
   { href: '/', label: 'Home', style: navLink },
-  { href: '/about', label: 'About', style: navLink }
+  { href: '/About', label: 'About', style: navLink }
 ].map(link => {
   link.key = `label`
   return link
