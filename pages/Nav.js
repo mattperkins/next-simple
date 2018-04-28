@@ -17,7 +17,7 @@ const Nav = () => (
         {links.map(
           ({ href, label, style }) => (
             <li key={label}>
-              <Link href={href}>
+              <Link href={href} prefetch>
                 <a style={style}>{label}</a>
               </Link>
             </li>
