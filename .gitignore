@@ -5,3 +5,4 @@ package-lock.json
 .next
 .vscode
 yarn-error.log
+notes.js
